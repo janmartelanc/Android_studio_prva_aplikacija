@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Naloga1</string>
+    <string name="log_in">Log in</string>
+    <string name="subscribe">Subscribe to newsletters</string>
+    <string name="hello">Hello World!</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="mobile">Mobile application!</string>
+</resources>
